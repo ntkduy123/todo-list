@@ -1,25 +1,25 @@
 ## Things need to be done
 
-### [ ] Javascript: 
+### Javascript: 
 - [ ] Closure
 - [ ] "this" keyword
 - [ ] Callback (Higher-Order) Functions
 - [ ] Promise
 - [ ] Apply, Call, and Bind Methods
 
-### [ ] ReactJS
+### ReactJS
 
-### [ ] Data structure and algorithm:
+### Data structure and algorithm:
 - [ ] Dynamic programming
 - [ ] Recursion
 - [ ] Heap
 - [ ] Trees
 
-### [ ] Java:
+### Java:
 - [ ] Basic java
 - [ ] Spring
 
-### [ ] OOP:
+### OOP:
 - [ ] Basic OOP
 - [ ] Design patterns
 - [ ] SOLID
